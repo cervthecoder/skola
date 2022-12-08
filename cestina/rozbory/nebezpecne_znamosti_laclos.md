@@ -18,8 +18,14 @@ mu umožní se dostat do vyšších společenských kruhů a poznat prohnilosti 
 - Laclos měl skončit pod gilotinou, ale rozsudek se nakonec neudál
 - kontrast mezi měšťanským sentimentalismem a aristokratickou dekadencí
 - láska zde není skutečná, jedná se pouze o rozkoš s fyzického potěšení
+
+
 ## Postavy
+
+
 oběti (měšťané) x zlosyni (smetánka)
+
+
 - **Markýza de Merteuille** $\to$ Vdova intrikánka s volnou rukou, která si může dělat,
 co se jí zlíbí a nic se jí nestane. Žárlí na Cecilii kvůli Gercourtovi a tak svede Dancenyho.
 Perfektně ovládá svou fyziognomii. Milenci jsou pro ní předměty, jež mají působit rozkoš.
