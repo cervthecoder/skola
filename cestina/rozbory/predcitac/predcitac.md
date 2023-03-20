@@ -8,8 +8,9 @@
 - Své psaní začal detektivními povídkami
 ## Rozbor
 - vypořádávání se postanacistické generace s nacistickou minulostí
+- transgenerační trauma
 - **literární druh**: epika
-- **literární žánr**: postmoderní román
+- **literární žánr**: malý historický román (generační)
 - **časoprostor**: poválečné Německo (50. léta až do 90. let)
 - **téma**: vztah adolescenta k bývalé dozorčí v koncentračním táboře
 - **motivy**: nergamotnost, ignorance nacistické generace, nepsravedlnost, integrace do společnosti
