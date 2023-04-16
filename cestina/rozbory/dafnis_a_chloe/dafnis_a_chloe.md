@@ -23,6 +23,7 @@ o zamilovaném páru a jejich strastiplné cestě (Příhody Leukippy a Kleitof�
 byl Charitón, který napsal Příhody Chairea a Kallirhoy, kde líčí přiběhy dvou zamilovaných lidí.
 Opakují se zde podobné motivy jako jsou **únosy, otroctví, bouřek, piráti, ztroskotání...**
 - **attiscismus**: kniha je psaná rhetorickým style (střídmě) $\to$ opak proti asianismu (květnatost)
+
 ## Postavy
 - **Daphnis (kozy)**: hlavní postava, nalezen v jeskyni pastýřek, který se oň stará a vychovává ho.
 - **Chloé (ovce)**: hlavní postava, nalezena v té samé jeskyni, ale o 2 roky později,
