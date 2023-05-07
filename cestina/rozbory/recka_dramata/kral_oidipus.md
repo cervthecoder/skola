@@ -20,12 +20,18 @@ dalším chybám s fatálním koncem $\to$ tragédie
 
 ## Rozbor
 - **literární druh**: drama
+- **literarni forma**: próza
 - **žánr**: antická tragédie
 - **motivy**: morová epidemie, hrdinství, incest, vina
 - **téma**: osud a jeho nevyhnutelnost
 - **časoprostor**: Théby, starověké Řecko
-- **kompoziční výstavba**: 4 scény a 4 písně sboru, vše je řazeno chronologicky (jednota děje místa
+- **kompoziční výstavba**: 4 scény + prolog a epilog a 4 písně sboru, vše je řazeno chronologicky (jednota děje místa
 a času)
+1. Expozice: Seznámení se situací v Thebách (mor)
+2. Kolize: Oidipus posílá Kreonta pro věštbu
+3. Krize: Dozvídá se věštbu a nevěří jí
+4. Peripetie: dobrání se k tomu, že je věštba pravdivá
+5. Tragédie: teď už to jde z kopce $\to$ Iokasté se oběsí a Oidipus si vypíchne oči
 - **vypravěč**: ich-forma
 - **vyprávěcí způsoby**: pásmo postav, chór, dialogy
 - **typy promluv**

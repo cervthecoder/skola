@@ -1,0 +1,14 @@
+
+- **literární druh**:
+- **literární forma**: 
+- **žánr**:
+- **umělecký směr**:
+- **časoprostor**:
+- **kompoziční výstavba**:
+- **vypravěč**:
+- **vyprávěcí způsoby**
+- **typy promluv**:
+- **jazyk**:
+- **literárně-historický kontext**:
+- **motivy**:
+- **téma**: 
