@@ -1,6 +1,6 @@
 # Antigona: Sofokles (5. st. př. n. l.)
 ## Autor
- starořecký athenský dramatik a politik
+- starořecký athenský dramatik a politik
 - Proslul svými tragédiemi Antigonou, Élektrou a Králem Oidipem
 - spolu s Aischylem a Euripidem patří mezi nejvýznamnější tarověké dramatiky
 - Údajně napsal 123 tragédií, z nichž se úplných dochovalo pouze 7
